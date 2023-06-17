@@ -27,7 +27,7 @@
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://luis-emanuel.github.io/apeperia/).
+[Veja o projeto final do curso em funcionamento](https://apeperia-nt.vercel.app/).
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
